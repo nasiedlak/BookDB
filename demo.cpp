@@ -1,8 +1,5 @@
 /**
  * @Author: Marc Renault & Cooper Nasiedlak
- * @NETID: nasiedlak
- * @ID#: 9082213803
- * @Source(s): Stackoverflow.com, Geeksforgeeks.com, & Piazza
  * @Description: The source file contains sample testing code for the implementation of the Book database vector.
  */
 

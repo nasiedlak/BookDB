@@ -1,8 +1,5 @@
 /**
  * @Author: Cooper Nasiedlak
- * @NETID: nasiedlak
- * @ID#: 9082213803
- * @Source(s): Stackoverflow.com, Geeksforgeeks.com, & Piazza
  * @Description: this source file contain the function definitions needed for the Book database vector
  */
 

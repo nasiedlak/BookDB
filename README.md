@@ -1,5 +1,3 @@
-Source(s): Stackoverflow.com, Geeksforgeeks.com, & Piazza
-
 ## Description
 
 This program uses a vector to create and manipulate a simple database of books.
@@ -19,3 +17,7 @@ Enter the command "./demo" to run all necessary files.
 
 - Files with the extension ".h" are header files. These files contain function prototypes and comments, necessary libraries, and enumerations.
 - Files with the ".cpp" are source files. These files contain necessary libraries, function definitions, and any internal enumerations, structs, etc.
+
+## Sources
+
+Stackoverflow.com, Geeksforgeeks.com, & Piazza.com

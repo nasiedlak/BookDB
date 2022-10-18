@@ -1,11 +1,3 @@
-# Assignment #2 (A2)
-
-Name: Cooper Nasiedlak
-
-NETID: nasiedlak
-
-ID#: 9082213803
-
 Source(s): Stackoverflow.com, Geeksforgeeks.com, & Piazza
 
 ## Description

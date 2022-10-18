@@ -1,8 +1,5 @@
 /**
  * @Author: Cooper Nasiedlak
- * @NETID: nasiedlak
- * @ID#: 9082213803
- * @Source(s): Stackoverflow.com, Geeksforgeeks.com, & Piazza
  * @Description: This header file includes the function prototypes and strucutre needed for Book the database vector.
  */
 
